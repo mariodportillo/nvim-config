@@ -21,5 +21,3 @@ vim.opt.foldlevelstart = 99
 vim.opt.foldnestmax = 3
 vim.opt.spell = true
 vim.opt.spelllang = "en_us"
-
-
